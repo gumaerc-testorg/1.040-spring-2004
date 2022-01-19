@@ -1,8 +1,7 @@
 ---
 content_type: resource
 description: Slides for a lecture presentation.
-file: /media/courses/1-040-project-management-spring-2004/5716fac5e396317351d14cf19273cf9e_l16diagnsprjctrl.pdf
-file_location: /coursemedia/1-040-project-management-spring-2004/5716fac5e396317351d14cf19273cf9e_l16diagnsprjctrl.pdf
+file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-040-project-management-spring-2004/5716fac5e396317351d14cf19273cf9e_l16diagnsprjctrl.pdf
 file_type: application/pdf
 resourcetype: Document
 title: l16diagnsprjctrl.pdf

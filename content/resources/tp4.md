@@ -1,8 +1,7 @@
 ---
 content_type: resource
 description: Final phase of the Term Project assignment.
-file: /media/courses/1-040-project-management-spring-2004/d18337b3d8f0cc8e2934a77e4a8ba78c_tp4.pdf
-file_location: /coursemedia/1-040-project-management-spring-2004/d18337b3d8f0cc8e2934a77e4a8ba78c_tp4.pdf
+file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-040-project-management-spring-2004/d18337b3d8f0cc8e2934a77e4a8ba78c_tp4.pdf
 file_type: application/pdf
 resourcetype: Document
 title: tp4.pdf

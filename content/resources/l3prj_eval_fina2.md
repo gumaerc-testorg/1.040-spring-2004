@@ -1,8 +1,7 @@
 ---
 content_type: resource
 description: Slides for a lecture presentation.
-file: /media/courses/1-040-project-management-spring-2004/73f68c8032dd8b09ed638732f20fdc28_l3prj_eval_fina2.pdf
-file_location: /coursemedia/1-040-project-management-spring-2004/73f68c8032dd8b09ed638732f20fdc28_l3prj_eval_fina2.pdf
+file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-040-project-management-spring-2004/73f68c8032dd8b09ed638732f20fdc28_l3prj_eval_fina2.pdf
 file_type: application/pdf
 resourcetype: Document
 title: l3prj_eval_fina2.pdf

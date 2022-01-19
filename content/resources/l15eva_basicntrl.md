@@ -1,8 +1,7 @@
 ---
 content_type: resource
 description: Slides for a lecture presentation.
-file: /media/courses/1-040-project-management-spring-2004/3151d3ef1467c1e7874707fae1981797_l15eva_basicntrl.pdf
-file_location: /coursemedia/1-040-project-management-spring-2004/3151d3ef1467c1e7874707fae1981797_l15eva_basicntrl.pdf
+file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-040-project-management-spring-2004/3151d3ef1467c1e7874707fae1981797_l15eva_basicntrl.pdf
 file_type: application/pdf
 resourcetype: Document
 title: l15eva_basicntrl.pdf
