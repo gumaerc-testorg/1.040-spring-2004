@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Slides for a lecture presentation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-040-project-management-spring-2004/c3f13ce50cdbfd894ef03674f149cb16_l8estimation2sp4.pdf
+file: /media/courses/1-040-project-management-spring-2004/c3f13ce50cdbfd894ef03674f149cb16_l8estimation2sp4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: l8estimation2sp4.pdf
 uid: c3f13ce5-0cdb-fd89-4ef0-3674f149cb16
