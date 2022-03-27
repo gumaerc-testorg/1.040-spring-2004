@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4bff6290-6ff2-fa8b-f47b-ab0fd1acbf75
 resourcetype: Document
 title: l2prj_eval_finan.pdf
 uid: 680c6261-1033-bd5d-821f-224a5323372e

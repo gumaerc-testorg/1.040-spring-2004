@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4bff6290-6ff2-fa8b-f47b-ab0fd1acbf75
 resourcetype: Document
 title: l5organization1.pdf
 uid: 11c2f3b2-5846-c19f-19a1-d94234ba8a63

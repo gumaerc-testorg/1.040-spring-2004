@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4bff6290-6ff2-fa8b-f47b-ab0fd1acbf75
 resourcetype: Document
 title: l17sys_dynamics2.pdf
 uid: 98dc6103-b4a0-3bd6-f5de-657bd217f376

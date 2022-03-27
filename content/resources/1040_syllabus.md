@@ -13,6 +13,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: b99d53bb-3186-dc30-b4d9-8ee571d625f0
 resourcetype: Image
 title: 1040_syllabus.jpg
 uid: 828d6e69-8f47-92f9-0639-09b7719b471e

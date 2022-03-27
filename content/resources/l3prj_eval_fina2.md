@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4bff6290-6ff2-fa8b-f47b-ab0fd1acbf75
 resourcetype: Document
 title: l3prj_eval_fina2.pdf
 uid: 73f68c80-32dd-8b09-ed63-8732f20fdc28
