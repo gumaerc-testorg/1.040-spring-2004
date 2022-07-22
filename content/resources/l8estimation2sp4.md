@@ -5,6 +5,7 @@ file: /courses/1-040-project-management-spring-2004/c3f13ce50cdbfd894ef03674f149
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: l8estimation2sp4.pdf
 uid: c3f13ce5-0cdb-fd89-4ef0-3674f149cb16
 ---
 Slides for a lecture presentation.
-

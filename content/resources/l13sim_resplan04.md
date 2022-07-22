@@ -5,6 +5,7 @@ file: /courses/1-040-project-management-spring-2004/5f60fa07e67d7d4b4769930f2912
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: l13sim_resplan04.pdf
 uid: 5f60fa07-e67d-7d4b-4769-930f29124402
 ---
 Slides for a lecture presentation.
-

@@ -10,6 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Syllabus
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: 1040_syllabus.jpg
 uid: 828d6e69-8f47-92f9-0639-09b7719b471e
 ---
 Diagram showing the framework for the course. The material in the course is divided into five major sections: Project Organization, Project Planning, Project Monitoring, Project Control, and Project Learning.
-

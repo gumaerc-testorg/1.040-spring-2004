@@ -5,6 +5,7 @@ file: /courses/1-040-project-management-spring-2004/98e56352972db5aa21dd2c281d72
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: l7estimationsp04.pdf
 uid: 98e56352-972d-b5aa-21dd-2c281d72decf
 ---
 Slides for a lecture presentation.
-

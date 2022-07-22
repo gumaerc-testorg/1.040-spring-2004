@@ -5,6 +5,7 @@ file: /courses/1-040-project-management-spring-2004/7c324e0e732c7b99d45f806121b1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: l18riskmgtreview.pdf
 uid: 7c324e0e-732c-7b99-d45f-806121b17131
 ---
 Slides for a lecture presentation.
-

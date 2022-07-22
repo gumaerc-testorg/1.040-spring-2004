@@ -5,6 +5,7 @@ file: /courses/1-040-project-management-spring-2004/3151d3ef1467c1e7874707fae198
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: l15eva_basicntrl.pdf
 uid: 3151d3ef-1467-c1e7-8747-07fae1981797
 ---
 Slides for a lecture presentation.
-
