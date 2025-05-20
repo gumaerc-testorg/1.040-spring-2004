@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Slides for the presentation of the introductory lecture.
-file: /ol-ocw-studio-app/courses/1-040-project-management-spring-2004/e2963f75becc4f88790d06703ff5230c_l1intro_sp04anno.pdf
+file: /courses/1-040-project-management-spring-2004/e2963f75becc4f88790d06703ff5230c_l1intro_sp04anno.pdf
 file_size: 1708572
 file_type: application/pdf
 learning_resource_types:
