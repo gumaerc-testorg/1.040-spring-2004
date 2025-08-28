@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Slides for a lecture presentation.
-file: /courses/1-040-project-management-spring-2004/4fe7ce5deb3f385f15ac8d50b3711e9d_l19reviews_2.pdf
+file: /ol-ocw-studio-app/courses/1-040-project-management-spring-2004/4fe7ce5deb3f385f15ac8d50b3711e9d_l19reviews_2.pdf
 file_size: 897977
 file_type: application/pdf
 learning_resource_types:
